@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @saralaufeyson
+- 👋 Hi, I’m Lazy shika
 - 👀 I’m interested in ...space work organisations
-- 🌱 I’m currently learning ...school
+- 🌱 I’m currently learning ...ug
 - 💞️ I’m looking to collaborate on ...digital library available for all n all content to be availble..
 - 📫 How to reach me ...u can use git hub itself to reach me...if its really necessary...ill give my mail
  first of all ..i hv no idea about github....once i lrn...this sentence will be striked ....
