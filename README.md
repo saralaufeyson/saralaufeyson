@@ -12,7 +12,7 @@ Here's a snapshot of the technologies I work with:
 
 I'm always on the lookout for unique projects that challenge my creativity and technical skills. If you're interested in collaborating or just want to say hi, feel free to reach out!
 
-Let's make something awesome together. 🚀
+Let's make something awesome together. 🚀 to contact me: saralaufeysonlaya08@gmail.com
 <!---
 saralaufeyson/saralaufeyson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
