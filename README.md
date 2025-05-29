@@ -67,7 +67,8 @@
 <a target="_blank" href="https://www.instagram.com/voice_of_laya" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.dribbble.com/LazyShika" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a>
 <a target="_blank" href="https://www.behance.net/SaraLaufeyson" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saralaufeyson&show_icons=true&locale=en" alt="saralaufeyson" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saralaufeyson&" alt="saralaufeyson" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saralaufeyson&show_icons=true&locale=en&layout=compact" alt="saralaufeyson" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saralaufeyson" alt="saralaufeyson" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saralaufeyson&show_icons=true&locale=en&theme=transparent" alt="saralaufeyson" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saralaufeyson&theme=dark" alt="saralaufeyson" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saralaufeyson&show_icons=true&locale=en&layout=compact&theme=radical" alt="saralaufeyson" /></p>
