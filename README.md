@@ -37,6 +37,31 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
+<h2>🛠️ Some Cool Tools I’ve Built</h2>
+<table border="1">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Used</th>
+  </tr>
+  <tr>
+    <td>Painting Inventory System</td>
+    <td>Google Sheets + Drive automation to manage art listings with pricing, framing, and availability</td>
+    <td>Google Apps Script, Sheets</td>
+  </tr>
+  <tr>
+    <td>Expense Tracker App</td>
+    <td>Tracks budgeted vs. used money across multiple categories</td>
+    <td>React, Django, Firebase</td>
+  </tr>
+   <tr>
+    <td>Painting Inventory System using Streamlit</td>
+    <td>Streamlit app to make descriptions for art and make a pdf out of it </td>
+    <td>Streamlit,Openai</td>
+  </tr>
+  
+</table>
+
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/layasree-k" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/voice_of_laya" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
