@@ -66,7 +66,11 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/layasree-k" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/voice_of_laya" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.dribbble.com/LazyShika" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a>
-<a target="_blank" href="https://www.behance.net/SaraLaufeyson" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a></p>
+<a target="_blank" href="https://www.behance.net/SaraLaufeyson" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a>
+  <a href="https://leetcode.com/u/lazyShika/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saralaufeyson&show_icons=true&locale=en&theme=transparent" alt="saralaufeyson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saralaufeyson&theme=dark" alt="saralaufeyson" /></p>
