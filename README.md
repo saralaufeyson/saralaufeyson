@@ -73,6 +73,6 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saralaufeyson&show_icons=true&locale=en&theme=transparent" alt="saralaufeyson" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saralaufeyson&theme=dark" alt="saralaufeyson" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saralaufeyson&theme=dark" alt="saralaufeyson" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saralaufeyson&show_icons=true&locale=en&layout=compact&theme=radical" alt="saralaufeyson" /></p>
