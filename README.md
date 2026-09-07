@@ -1,359 +1,121 @@
 <div align="center">
 
-<img src="./header.png" alt="CURIOUS_OS header" width="100%">
+<img src="./header.png" alt="header" width="100%">
 
 <br>
 
-# `CURIOUS_OS`
+# ⋆｡°✩ Hi, I'm Sara ✩°｡⋆
 
-### `explore → build → break → understand`
-
-`software engineer` · `curious by default` · `occasionally lost in a rabbit hole`
+### `Software Engineer` · `Curious by default` · `Chaotic good energy` 🎀
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=saralaufeyson&color=8FB996&style=flat-square&label=PROFILE+VIEWS)](https://github.com/saralaufeyson)
-[![GitHub](https://img.shields.io/badge/GitHub-0B0B0F?style=flat-square&logo=github&logoColor=E8E2D5)](https://github.com/saralaufeyson)
+[![Profile Views](https://komarev.com/ghpvc/?username=saralaufeyson&color=F7B6C2&style=for-the-badge&label=VISITORS)](https://github.com/saralaufeyson)
 
 </div>
 
----
+<br>
 
-## `boot sequence`
+## 🌸 About ME
 
-```text
-user@curious:~$ whoami
+I don't have one lane — I like unfamiliar problems, weird little experiments, and figuring out how things work, then building something with whatever I learned. Some days that's software, some days it's infra or security, and sometimes it's a completely unnecessary side project that starts with:
 
-software engineer
-builder of things
-professional rabbit-hole explorer
+> **"wait... can I actually do that?"** 👀
 
-user@curious:~$ ./personality
+<br>
 
-explore → build → break → learn
-        ↳ repeat
-
-user@curious:~$ cat error.log
-
-[WARN] too many interests detected
-[WARN] unfinished projects detected
-[ OK ] curiosity still operational
-
-user@curious:~$
-```
-
-I don't really have one lane.
-
-I like unfamiliar problems, weird little experiments, understanding how systems work,
-and then building something with whatever I learned.
-
-Some days that means writing software.
-Some days it's automation or infrastructure.
-Some days it's cybersecurity.
-And sometimes it's a completely unnecessary side project that begins with:
-
-> **"wait... can I actually do that?"**
-
----
-
-## `~/status`
+## 🍥 currently
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### `CURRENTLY`
-
-```text
-┌──────────────────────────────┐
-│                              │
-│  learning                    │
-│  ├─ DevOps                   │
-│  └─ Cybersecurity            │
-│                              │
-│  exploring                  │
-│  └─ Red Teaming              │
-│                              │
-│  building                    │
-│  └─ whatever looks fun       │
-│                              │
-│  status                      │
-│  └─ exploring...             │
-│                              │
-└──────────────────────────────┘
+```
+🎓 learning     DevOps, Cybersecurity
+🔎 exploring    Red Teaming
+🛠️ building     whatever looks fun
+💭 status       always mid-rabbit-hole
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### `SYSTEM METRICS`
-
-```text
-curiosity         ████████████████████  ∞%
-unfinished ideas  ████████████████████  ∞%
-sleep             ██████░░░░░░░░░░░░░░  31%
-tabs open         ████████████████████  ????
 ```
-
-```text
-uptime:    questionable
-motivation: online
-focus:     depends on the rabbit hole
+curiosity     ●●●●●●●●●●  ∞
+sleep         ●●●○○○○○○○  31%
+tabs open     ●●●●●●●●●●  too many
 ```
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## `~/toolbox`
-
-I collect tools rather than trying to collect a perfect tech stack.
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**LANGUAGES**
-
-`C++` · `C#`  
-`Java` · `JavaScript`  
-`TypeScript` · `Python`
-
-</td>
-<td valign="top" width="33%">
-
-**WEB & BACKEND**
-
-`React` · `Angular`  
-`Node.js` · `Express`  
-`Django` · `Flask`  
-`HTML` · `CSS`
-
-</td>
-<td valign="top" width="33%">
-
-**DATA & SYSTEMS**
-
-`MongoDB` · `MySQL`  
-`SQLite` · `Pandas`  
-`Docker` · `Linux`  
-`Azure` · `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**BUILD & DEBUG**
-
-`Git` · `Postman`  
-`REST APIs` · `MERN`
-
-</td>
-<td valign="top">
-
-**DESIGN**
-
-`Figma` · `UI/UX`
-
-</td>
-<td valign="top">
-
-**ALSO EXPERIMENTED WITH**
-
-`Unity` · `Arduino`  
-`MATLAB` · `Generative AI`
-
-</td>
-</tr>
-</table>
-
-> `tools change. curiosity doesn't.`
-
----
-
-## `~/projects`
-
-### `01` — `ARTOPUS INDIA`
-
-**`MERN` · `E-COMMERCE` · `ART`**
-
-A platform built around discovering, buying and selling art — because apparently
-building an art marketplace wasn't enough, so I decided to build one.
-
-**status:** `shipping` · `very proud of this one`
-
-[ `live site` ](https://www.artopusindia.com) · [ `source code` ](https://github.com/saralaufeyson/Artopus-Ecom)
-
----
-
-### `02` — `ART DESCRIPTOR`
-
-**`PYTHON` · `GEN AI` · `OPENAI`**
-
-Upload an artwork → let AI interpret it → generate an art description → turn it into a PDF.
-
-A tiny experiment somewhere between art, automation and "what if I made this?"
-
-**status:** `sleeping peacefully` · `API key has entered the void`
-
-[ `source code` ](https://github.com/saralaufeyson/Artdescriptor)
-
----
-
-### `03` — `THE NEXT EXPERIMENT`
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  idea found                                 │
-│      ↓                                      │
-│  rabbit hole entered                        │
-│      ↓                                      │
-│  "this should be easy"                      │
-│      ↓                                      │
-│  it was not easy                            │
-│      ↓                                      │
-│  learned approximately 47 new things        │
-│      ↓                                      │
-│  somehow became a project                   │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-`coming soon... probably`
-
----
-
-## `~/side_quests`
-
-These are not career pivots.
-
-They're just things I got curious about and refused to leave alone.
-
-```text
-CYBERSECURITY     ████████████░░░░  exploring
-DEVOPS            █████████████░░░  exploring
-WEB               ████████████████  building
-AUTOMATION        █████████████░░░  building
-DESIGN            ███████████░░░░░  creating
-RANDOM CURIOSITY  ████████████████  dangerous
-```
-
-There is no roadmap.
-
-There are only **side quests**.
-
----
-
-## `~/currently_reading`
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  CURRENT RABBIT HOLES                        │
-│                                              │
-│  → cybersecurity                             │
-│  → red teaming                               │
-│  → systems & infrastructure                  │
-│  → understanding things I probably shouldn't │
-│                                              │
-│  NEXT QUESTION:                              │
-│  "okay but how does it actually work?"       │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
----
-
-## `~/comfort_media`
-
-```text
-$ cat comfort_media.txt
-
-Bungo Stray Dogs
-Frieren
-The Apothecary Diaries
-
-────────────────────────────────
-
-looking for:
-    underrated anime
-    interesting rabbit holes
-    oddly specific facts
-    things that make me go "ohhhhhh"
-```
-
----
-
-## `~/fuel`
-
-```text
-$ cat fuel.txt
-
-brownies          ████████████████████
-chocolate         ███████████████████░
-chocolate shake   ████████████████████
-alfredo pasta     ██████████████████░░
-
-fuel efficiency: questionable
-productivity: somehow operational
-```
-
----
-
-## `~/github`
+## 💻 toolbox
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saralaufeyson&show_icons=true&hide_border=true&bg_color=00000000&title_color=8FB996&text_color=E8E2D5&icon_color=D98C8C&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saralaufeyson&hide_border=true&background=00000000&ring=8FB996&fire=D98C8C&currStreakLabel=E8E2D5&sideLabels=E8E2D5&dates=888888" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saralaufeyson&layout=compact&hide_border=true&bg_color=00000000&title_color=8FB996&text_color=E8E2D5" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,py,react,angular,nodejs,express,django,flask,html,css,mongodb,mysql,sqlite,docker,linux,azure,git,figma,unity,arduino&theme=dark&perline=8" />
 
 </div>
 
----
-
-## `~/connect`
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=8FB996)](https://www.linkedin.com/in/layasree-k)
-[![Instagram](https://img.shields.io/badge/Instagram-0B0B0F?style=for-the-badge&logo=instagram&logoColor=D98C8C)](https://www.instagram.com/voice_of_laya)
-[![Dribbble](https://img.shields.io/badge/Dribbble-0B0B0F?style=for-the-badge&logo=dribbble&logoColor=D98C8C)](https://www.dribbble.com/LazyShika)
-[![Behance](https://img.shields.io/badge/Behance-0B0B0F?style=for-the-badge&logo=behance&logoColor=B7A0D8)](https://www.behance.net/SaraLaufeyson)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0B0B0F?style=for-the-badge&logo=leetcode&logoColor=8FB996)](https://leetcode.com/u/lazyShika/)
+`pandas` · `postman` · `REST APIs` · `MERN` · `MATLAB` · `Streamlit` · `Generative AI`
 
 </div>
 
----
+> tools change. curiosity doesn't. 🌷
+
+<br>
+
+## 🌟 projects
+
+**`Artopus India`** — MERN e-commerce platform for discovering & selling art. `shipping · very proud of this one`
+[live](https://www.artopusindia.com) · [source](https://github.com/saralaufeyson/Artopus-Ecom)
+
+**`Art Descriptor`** — upload an artwork, let AI describe it, export as PDF. `sleeping peacefully · API key in the void`
+[source](https://github.com/saralaufeyson/Artdescriptor)
+
+**`Next Experiment`** — idea found → rabbit hole entered → "this should be easy" → 47 new things learned → somehow a project. `coming soon, probably`
+
+<br>
+
+## 🎧 off duty
+
+```
+side quests     cybersecurity · devops · red teaming · design
+comfort media   Bungo Stray Dogs · Frieren · The Apothecary Diaries
+fuel            brownies, chocolate shakes, alfredo pasta
+looking for     underrated anime & oddly specific facts that go "ohhhhhh"
+```
+
+<br>
+
+## 📊 github
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=saralaufeyson&show_icons=true&hide_border=true&bg_color=00000000&title_color=F7B6C2&text_color=E8E2D5&icon_color=B7A0D8&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saralaufeyson&hide_border=true&background=00000000&ring=F7B6C2&fire=D98C8C&currStreakLabel=E8E2D5&sideLabels=E8E2D5" width="48%" />
+</div>
+
+<br>
+
+## 💌 connect
 
 <div align="center">
 
-```text
-╭────────────────────────────────────────────────────────╮
-│                                                        │
-│   user@curious:~$ ./shutdown                          │
-│                                                        │
-│   ERROR: curiosity process still running               │
-│                                                        │
-│   attempting to terminate...                           │
-│   failed.                                               │
-│                                                        │
-│   user@curious:~$                                      │
-│   █                                                    │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7B6C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layasree-k)
+[![Instagram](https://img.shields.io/badge/Instagram-F7B6C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/voice_of_laya)
+[![Dribbble](https://img.shields.io/badge/Dribbble-F7B6C2?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/LazyShika)
+[![Behance](https://img.shields.io/badge/Behance-F7B6C2?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/SaraLaufeyson)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F7B6C2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/lazyShika/)
 
-### `keep exploring. keep building. keep asking why.`
+</div>
 
-`maintained by sara • somewhere between curiosity and chaos`
+<div align="center">
+
+*coded with a little chaos and a lot of curiosity ✨*
 
 </div>
